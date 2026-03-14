@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="in250-black-market-gmbh">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bilder.zip!/" />
+      <root url="jar://$PROJECT_DIR$/code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dokumentation.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
