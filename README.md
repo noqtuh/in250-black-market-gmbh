@@ -12,6 +12,8 @@ Dieses Repository enthält verschiedene Projekte, Dokumentationen und Ressourcen
 Weiterführende Dokumentationen:
 
 - [Verzeichnisstruktur](docs/01_verzeichnisstruktur.md)
+- [Branch Strategie](docs/02_branch_strategie.md)
+
 
 ---
 
